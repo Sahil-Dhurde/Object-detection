@@ -1,7 +1,7 @@
 import cv2
 import argparse
 import sys
-from src.detector import YOLODetector
+from src.detector import YOLODetector 
 from src.visualizer import Visualizer
 
 def run_detection(source=0, model='yolo11n.pt', confidence=0.25):
