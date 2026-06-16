@@ -1,4 +1,4 @@
-# premium YOLO Object Detection Project 🚀
+# premium YOLO Object Detection Project 🚀 
 
 A high-performance, real-time object detection system using the latest YOLO (Ultralytics) framework.
 
